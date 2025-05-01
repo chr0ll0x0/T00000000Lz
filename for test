@@ -8,3 +8,17 @@ xt-6+69p8g5Q4"XZY6nz@^d47T]:p
 7F,xt-6+69p8g5Q4"XZY6nz@^d47T]:p
 7F,xt-6+69p8g5Q4"XZY6nz@^d47T]:px6t
 7F,xt-6+69p8g5Q4"XZY6nz@^d47T]:p1c3
+
+
+
+
+<script data-gradio-mode>
+			window.__gradio_mode__ = "app";
+			window.iFrameResizer = {
+				heightCalculationMethod: "taggedElement"
+			};
+			window.parent?.postMessage(
+				{ type: "SET_SCROLLING", enabled: false },
+				"*"
+			);
+		</script>
